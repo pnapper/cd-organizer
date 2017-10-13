@@ -1,0 +1,10 @@
+/Users/patrick/Desktop/cd-organizer/obj/Debug/netcoreapp1.1/cd_organizer.csproj.CoreCompileInputs.cache
+/Users/patrick/Desktop/cd-organizer/obj/Debug/netcoreapp1.1/cd_organizer.AssemblyInfoInputs.cache
+/Users/patrick/Desktop/cd-organizer/obj/Debug/netcoreapp1.1/cd_organizer.AssemblyInfo.cs
+/Users/patrick/Desktop/cd-organizer/bin/Debug/netcoreapp1.1/cd_organizer.deps.json
+/Users/patrick/Desktop/cd-organizer/bin/Debug/netcoreapp1.1/cd_organizer.runtimeconfig.json
+/Users/patrick/Desktop/cd-organizer/bin/Debug/netcoreapp1.1/cd_organizer.runtimeconfig.dev.json
+/Users/patrick/Desktop/cd-organizer/bin/Debug/netcoreapp1.1/cd_organizer.dll
+/Users/patrick/Desktop/cd-organizer/bin/Debug/netcoreapp1.1/cd_organizer.pdb
+/Users/patrick/Desktop/cd-organizer/obj/Debug/netcoreapp1.1/cd_organizer.dll
+/Users/patrick/Desktop/cd-organizer/obj/Debug/netcoreapp1.1/cd_organizer.pdb
